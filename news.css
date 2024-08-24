@@ -1,0 +1,37 @@
+body {
+    font-size: 16px/28px;
+    font-family: 'Microsoft Yahei';
+}
+.head {
+    font-weight: 400;
+    text-align: center;
+}
+.lesshead {
+    text-align: center;
+    font-size: 12px;
+}
+.lightcolor {
+    color:#888888;
+}
+a {
+    text-decoration: none;
+}
+.paragraph {
+    text-indent: 2em;
+    line-height: 30px;
+}
+.search {
+    color:#666666;
+    width: 170px;
+}
+.but {
+    font-weight: 700;
+}
+.center {
+    text-align: center;
+}
+.tail {
+    color: #888888;
+    font-size: 12px;
+    text-indent: 2em;
+}
